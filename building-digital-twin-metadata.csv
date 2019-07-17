@@ -1,0 +1,3048 @@
+main_equipment,equipment,equipment_instance,point_category,point_sub_category,point
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+lighting & HVAC,,,energy,current,electric current C
+process,,,energy,energy,electric energy
+HVAC,ground heat exchanger,,energy,water,pumping flow
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,hot water circuit,south,energy,water temperature,supply temperature
+lighting,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,current,electric current A
+others,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,current,electric current B
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+utilities,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,heat pump,compressor 1A  status,energy,status,compressor status
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,ground heat exchanger,,energy,water,trigger valve position
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric real energy
+HVAC,AHU,AHU 05,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+ventilation,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 06,energy,others,2 ways valve hot battery position
+HVAC,,,energy,energy,electric energy
+sockets,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+workstation & others,,rate 2,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+sockets,,,energy,energy,electric real energy
+ventilation,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 01,energy,air,return fan status
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,hot water circuit,offices,energy,water temperature,return temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting & HVAC,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 03,energy,air,supply air temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting & HVAC,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+sockets,,,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 02,energy,air,supply air pressure
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+HVAC,chilled water circuit,offices,energy,water temperature,supply temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,AHU,AHU 09,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+workstation & others,,rate 2,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU10,energy,air,supply fan status
+HVAC,AHU,AHU 04,energy,air,supply fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 06R,energy,water,hot water flow
+room control,,,occupancy & comfort,control & command,temperature
+lighting & HVAC,,,energy,current,electric current A
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+weather station,,,environment,weather,sonic temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+others,,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 07,energy,others,recovery wheel position
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 04,energy,water,hot water temperature
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06R,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+utilities,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,energy,electric reactive energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+lighting & HVAC,,,energy,current,electric current A
+others,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 07,energy,current,electric current B
+sockets,,,energy,energy,electric real energy
+weather station,,,environment,weather,wind direction
+HVAC,hot water circuit,north and center,energy,status,pump status
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,heat pump,chilled water,energy,water temperature,return temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,current,electric current avg
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+lighting & HVAC,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 01,energy,others,recovery wheel position
+lighting,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+others,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+others,,,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+HVAC,hot water circuit,kitchen,energy,status,pump status
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting & HVAC,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+HVAC,heating,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 09,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+weather station,,,environment,weather,wind speed
+HVAC,AHU,AHU 01,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,energy,electric block demand real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,kitchen,energy,status,pump status
+HVAC,AHU,AHU 06R,energy,water,chiled water flow
+HVAC,AHU,AHU 06,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+others,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 06R,energy,power,electric real power
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+main,,,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,return air pressure
+lighting,,,energy,current,electric current A
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,power,electric real power
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+others,,,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 03,energy,others,2 ways valve hot battery position
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+main,,,energy,power,electric block demand real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+utilities,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+sockets,,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+ventilation,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,heat pump,chilled water,energy,water temperature,supply temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,current,electric current avg
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+others,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,power,electric apparent power
+HVAC,AHU,AHU 09,energy,water,hot water temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+main,,,energy,current,electric current A
+HVAC,AHU,AHU 01,energy,air,return air pressure
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,heat pump,chilled water,energy,water temperature,return temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+workstation & others,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,temperature
+HVAC,heat pump,,energy,water temperature,supply temperature setpoint
+room control,,,occupancy & comfort,indoor air quality,co2
+heating & cooling,,,energy,energy,electric energy
+lighting,,,energy,current,electric current B
+sockets,,,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting & HVAC,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+water,restaurant,,water,water,water volume
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 05,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,energy,electric real energy
+domestic hot water,,water tank 1,energy,water temperature,water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 03,energy,air,supply air pressure
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,energy,electric block demand real power
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+utilities,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,current,electric current A
+HVAC,AHU,AHU 06R,energy,others,recovery wheel position
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU10,energy,water,chiled water temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+main,,,energy,energy,electric reactive energy
+main,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,air,supply air pressure
+HVAC,Main HVAC,,energy,power factor,electric power factor
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+utilities,,,energy,current,electric current B
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 02,energy,others,2 ways valve hot battery position
+lighting & HVAC,,,energy,current,electric current B
+lighting,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,power,electric real power
+HVAC,AHU,AHU 04,energy,air,supply air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,hot water circuit,offices,energy,status,pump status
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+lighting & HVAC,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,current,electric current A
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,current,electric current C
+sockets,,,energy,current,electric current A
+others,,,energy,current,electric current C
+main,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 07,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+weather station,,,environment,weather,humidity rate
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting & HVAC,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+lighting & HVAC,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,ground heat exchanger,pump 2,energy,water,dimmer rate
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+sockets,,,energy,current,electric current B
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU10,energy,air,supply air temperature
+HVAC,,,energy,energy,electric energy
+sockets,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+others,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,heating,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,power,electric block demand real power
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+ventilation,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+lighting & HVAC,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 06,energy,water,hot water flow
+sockets,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+heating & cooling,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 01,energy,air,supply fan speed
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+sockets,,,energy,power,electric real power
+HVAC,AHU,AHU 09,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 06,energy,air,return air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,power,electric real power
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+main,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+main,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 03,energy,air,discharge air temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+utilities,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+utilities,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,Main HVAC,,energy,apparent power,electric block demand apparent power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU10,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,current,electric current A
+sockets,,,energy,current,electric current A
+HVAC,AHU,AHU 03,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+HVAC,AHU,AHU 07,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,power,electric block demand real power
+HVAC,Main HVAC,,energy,current,electric current A
+HVAC,heat pump,condenser 1,energy,water temperature,return temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+room control,,,occupancy & comfort,control & command,temperature
+utilities,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 05,energy,others,2 ways valve hot battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,power factor,electric power factor
+HVAC,AHU,AHU 01,energy,air,return air temperature
+utilities,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 03,energy,power,electric real power
+HVAC,AHU,AHU 03,energy,air,return air pressure
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,north and center,energy,status,pump status
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+utilities,,,energy,current,electric current B
+external lighting,,,energy,power,electric real power
+HVAC,ground heat exchanger,pump,energy,electrical power,power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+total resident,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,water,chiled water flow
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,energy,electric apparent energy
+lighting,,,energy,energy,electric energy
+others,,,energy,current,electric current C
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 09,energy,water,chiled water temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 04,environment,weather,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+others,,,energy,current,electric current A
+lighting,,,energy,energy,electric energy
+heating & cooling,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+sockets,,,energy,current,electric current B
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 07,energy,air,return fan status
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+lighting,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU10,energy,others,2 ways valve hot battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+HVAC,ground heat exchanger,pump 1,energy,water,dimmer rate
+heating & cooling,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+external lighting,,,energy,current,electric current A
+workstation & others,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,control & command,temperature
+workstation & others,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+workstation & others,,rate 1,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+others,,,energy,energy,electric real energy
+HVAC,AHU,AHU 09,energy,air,supply fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 01,energy,air,discharge air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 07,energy,air,return fan speed
+HVAC,AHU,AHU 01,energy,water,chiled water temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,ground heat exchanger,condenser,energy,percentage command,trigger valve position
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 04,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,heating,,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+HVAC,ground heat exchanger,,energy,water,ground water level
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 03,energy,air,return fan speed
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,current,electric current C
+lighting & HVAC,,,energy,current,electric current A
+utilities,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 01,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,current,electric current A
+HVAC,AHU,AHU 09,energy,others,2 ways valve cold battery position
+main,,,energy,energy,electric reactive energy
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,power,electric block demand real power
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+heating & cooling,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+sockets,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+HVAC,AHU,AHU 01,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+sockets,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature
+total resident,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 04,energy,air,return fan status
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+main,,,energy,power,electric apparent power
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,air,return air pressure
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,power,electric block demand real power
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,energy,electric block demand real power
+HVAC,heat pump,,energy,status,heating cooling mode
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+HVAC,heat pump,chilled water,energy,water volume flow,flow
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+water,,,water,water,water volume
+HVAC,heating,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+sockets,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,co2
+total resident,,,energy,energy,electric energy
+main,,,energy,energy,electric reactive energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,current,electric current B
+lighting,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,AHU,AHU 04,energy,others,2 ways valve hot battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 09,energy,air,return fan status
+room control,,,occupancy & comfort,control & command,temperature
+main,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+utilities,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+utilities,,,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 07,energy,water,chiled water flow
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,energy,electric apparent energy
+others,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+HVAC,AHU,AHU 07,energy,water,chiled water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+main,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,power,electric block demand apparent power
+HVAC,AHU,AHU 02,environment,weather,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,energy,electric apparent energy
+HVAC,,,energy,energy,electric energy
+HVAC,heat pump,compressor 2A  status,energy,status,compressor status
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+main,,,energy,current,electric current B
+workstation & others,lift,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,air,return air pressure
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+sockets,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+sockets,,,energy,current,electric current B
+main,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 05,environment,weather,temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 01,energy,water,chiled water flow
+lighting,,,energy,energy,electric energy
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,hot water circuit,offices,energy,status,pump status
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 06,energy,water,chiled water temperature
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+workstation & others,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,chilled water circuit,offices,energy,water temperature,return temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+photovoltaic panel,solar inverter,A23,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 05,energy,air,return air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 02,energy,air,supply fan speed
+HVAC,AHU,AHU 06R,energy,others,2 ways valve hot battery position
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+room control,,,occupancy & comfort,control & command,temperature shift
+others,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,chilled water circuit,kitchen,energy,status,pump status
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,occupancy,occupancy
+total resident,,,energy,energy,electric energy
+HVAC,AHU,AHU 06R,energy,others,2 ways valve cold battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,heating,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,current,electric current avg
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+sockets,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,air,supply fan status
+water,,,water,water,water volume
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+others,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,others,2 ways valve cold battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+room control,,,occupancy & comfort,indoor air quality,co2
+total resident,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,heat pump,compressor 2A  status,energy,status,compressor status
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,environment,weather,temperature
+lighting & HVAC,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 07,energy,air,return air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+main,,,energy,power,electric apparent power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,heating,,energy,current,electric current C
+HVAC,AHU,AHU 09,energy,air,return air pressure
+utilities,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,current,electric current N
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting & HVAC,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,heat pump,compressor 1A  status,energy,status,compressor status
+lighting & HVAC,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU10,energy,air,discharge air temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 06R,energy,air,return air pressure
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+utilities,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+utilities,,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,air,return fan speed
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 01,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,heat pump,evaporator 2,energy,water temperature,return temperature
+HVAC,hot water circuit,south,energy,status,pump status
+domestic hot water,,water tank 2,energy,water temperature,water temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,power,electric block demand apparent power
+utilities,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+ventilation,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+ventilation,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting & HVAC,,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 03,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+HVAC,AHU,AHU 03,energy,air,return fan status
+lighting,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,air,supply air temperature
+sockets,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,Main HVAC,,energy,current,electric current C
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,heating,,energy,current,electric current B
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+main,,,energy,power,electric block demand real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 06,energy,energy,cold thermal energy
+HVAC,,,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+HVAC,ground heat exchanger,primary water circuit,energy,water pressure,water pressure
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,Main HVAC,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+main,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 01,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,chilled water circuit,kitchen,energy,water temperature,return temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,energy,electric reactive energy
+HVAC,chilled water circuit,south,energy,status,pump status
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+total resident,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+external lighting,,,energy,current,electric current C
+HVAC,hot water circuit,offices,energy,water temperature,supply temperature
+lighting & HVAC,,,energy,current,electric current B
+HVAC,Main HVAC,,energy,power,electric block demand apparent power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,chilled water circuit,north and center,energy,status,pump status
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 03,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 05,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,energy,electric real energy
+lighting & HVAC,,,energy,power,electric real power
+HVAC,Main HVAC,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,power,electric real power
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+room control,,,occupancy & comfort,control & command,temperature shift
+workstation & others,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+utilities,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,power,electric apparent power
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 09,energy,air,supply air pressure
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,AHU,AHU 04,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU10,energy,water,chiled water flow
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,Main HVAC,,energy,energy,electric block demand real power
+ventilation,,,energy,energy,electric energy
+utilities,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+total resident,,,energy,energy,electric energy
+HVAC,AHU,AHU 01,energy,air,supply air temperature
+HVAC,,,energy,energy,electric energy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+heating & cooling,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 04,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 09,energy,others,2 ways valve hot battery position
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+sockets,,,energy,power,electric real power
+lighting,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU10,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,power,electric real power
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,current,electric current C
+main,,,energy,current,electric current A
+utilities,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 06R,energy,air,supply air temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,power,electric real power
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,air,supply air temperature
+weather station,,,environment,weather,dew point
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU10,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 02,energy,air,return air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 07,energy,air,return air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+external lighting,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 06R,energy,air,supply fan speed
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 06,energy,water,hot water temperature
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+domestic hot water,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 03,energy,water,hot water temperature
+HVAC,AHU,AHU 06,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,power,electric real power
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU10,environment,weather,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting & HVAC,,,energy,current,electric current C
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,current,electric current C
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 01,energy,water,hot water flow
+external lighting,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU10,energy,air,return air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+utilities,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,apparent energy,electric apparent energy
+HVAC,AHU,AHU 09,energy,air,discharge air temperature
+lighting,,,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+HVAC,AHU,AHU 07,energy,air,supply fan status
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,heat pump,compressor 1B  status,energy,status,compressor status
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 04,energy,energy,electric real energy
+HVAC,AHU,AHU 02,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+heating & cooling,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,chilled water circuit,north and center,energy,water temperature,supply temperature
+HVAC,Main HVAC,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+lighting,,,energy,current,electric current C
+main,,,energy,power,electric real power
+main,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 03,energy,air,supply fan speed
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,current,electric current C
+HVAC,AHU,AHU 07,environment,weather,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,power factor,electric power factor
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,energy,electric reactive energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting & HVAC,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 07,energy,current,electric current A
+HVAC,AHU,AHU 09,environment,weather,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 06R,energy,current,electric current A
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 01,energy,air,return air pressure
+main,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,current,electric current A
+HVAC,AHU,AHU 06R,energy,air,return fan status
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,current,electric current C
+lighting,,,energy,power,electric real power
+HVAC,AHU,AHU10,energy,current,electric current A
+HVAC,heat pump,evaporator 1,energy,water temperature,supply temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,hot water circuit,kitchen,energy,water temperature,supply temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+others,,,energy,power,electric real power
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 06R,energy,air,discharge air temperature
+HVAC,heat pump,condenser 2,energy,water temperature,return temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+main,,,energy,power,electric apparent power
+water,,,water,water,water volume
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+others,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+utilities,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 06R,energy,air,return air pressure
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+HVAC,Main HVAC,,energy,current,electric current N
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+sockets,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 03,energy,current,electric current B
+lighting,,,energy,current,electric current B
+HVAC,AHU,AHU 02,energy,water,hot water temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,supply fan status
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+external lighting,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,energy,electric reactive energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,power,electric block demand real power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 04,energy,water,chiled water flow
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+sockets,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+utilities,,,energy,current,electric current A
+HVAC,AHU,AHU 03,energy,current,electric current C
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+water,,,water,water,water volume
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+others,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 09,energy,water,hot water flow
+others,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+sockets,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting & HVAC,,,energy,power,electric real power
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+sockets,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 06,energy,air,supply fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06,energy,others,2 ways valve cold battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06R,energy,water,hot water temperature
+HVAC,,,energy,energy,electric energy
+utilities,,,energy,energy,electric real energy
+others,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 04,energy,water,hot water flow
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 05,energy,air,supply fan status
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,power,electric real power
+HVAC,chilled water circuit,kitchen,energy,status,pump status
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 01,energy,others,2 ways valve hot battery position
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 03,energy,air,supply fan status
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 01,energy,others,2 ways valve cold battery position
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+sockets,,,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 06,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+lighting & HVAC,,,energy,current,electric current B
+HVAC,AHU,AHU 07,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+others,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,current,electric current B
+HVAC,,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,current,electric current A
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+domestic hot water,,,energy,energy,electric energy
+main,,,energy,power,electric apparent power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,power,electric apparent power
+main,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,temperature shift
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 05,energy,air,discharge air temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,current,electric current C
+HVAC,AHU,AHU 01,energy,water,hot water temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+main,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 05,energy,water,hot water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+workstation & others,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,Main HVAC,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,supply fan speed
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+HVAC,AHU,AHU 06,energy,air,return fan status
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 07,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+sockets,,,energy,current,electric current B
+HVAC,AHU,AHU 04,energy,air,return air pressure
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,current,electric current N
+ventilation,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+sockets,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,heat pump,compressor 2B  status,energy,status,compressor status
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,temperature shift
+sockets,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+heating & cooling,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+others,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+others,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+sockets,,,energy,current,electric current B
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 02,energy,air,return air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU10,energy,air,return air temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 02,energy,air,discharge air temperature
+HVAC,ground heat exchanger,discharge pump,energy,water,water conductivity
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 07,energy,water,hot water flow
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+others,,,energy,current,electric current B
+external lighting,,,energy,energy,electric real energy
+main,,,energy,power,electric apparent power
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,heat pump,condenser 1,energy,water temperature,supply temperature
+HVAC,AHU,AHU 04,energy,water,chiled water temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+external lighting,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+weather station,,,environment,weather,solar radiation power
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,AHU,AHU 07,energy,air,supply air pressure
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 06,energy,energy,electric real energy
+others,,,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+sockets,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,ground heat exchanger,discharge well,energy,water temperature,water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+HVAC,AHU,AHU 06R,energy,water,chiled water temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+HVAC,AHU,AHU 06,energy,air,supply fan status
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU10,energy,air,return fan status
+sockets,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+others,,,energy,current,electric current B
+HVAC,Main HVAC,,energy,current,electric current avg
+sockets,,,energy,power,electric real power
+domestic hot water,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+lighting & HVAC,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 06R,energy,energy,cold thermal energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+main,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU10,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU10,energy,air,return air pressure
+domestic hot water,,water tank 2,energy,water temperature,return temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 06,energy,current,electric current B
+sockets,,,energy,current,electric current C
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+ventilation,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,return air temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06R,environment,weather,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,heat pump,hot water,energy,water volume flow,flow
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+workstation & others,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 05,energy,energy,electric real energy
+utilities,,,energy,energy,electric real energy
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,reactive power,electric block demand reactive power
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,current,electric current A
+others,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,current,electric current avg
+HVAC,AHU,AHU 02,energy,others,2 ways valve cold battery position
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,power,electric real power
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,current,electric current C
+HVAC,heat pump,hot water,energy,water temperature,supply temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+weather station,,,environment,weather,water weight
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 06R,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,power,electric real power
+HVAC,chilled water circuit,offices,energy,status,pump status
+HVAC,AHU,AHU10,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric real energy
+HVAC,AHU,AHU 07,energy,air,supply fan speed
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting & HVAC,,,energy,current,electric current B
+lighting & HVAC,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 07,energy,air,return air pressure
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,energy,hot thermal energy
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+domestic hot water,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,energy,hot thermal energy
+HVAC,chilled water circuit,north and center,energy,water temperature,return temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting & HVAC,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 04,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 03,energy,energy,hot thermal energy
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 07,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,apparent energy,electric apparent energy
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+workstation & others,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+domestic hot water,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 03,energy,air,return air pressure
+room control,,,occupancy & comfort,control & command,temperature
+main,,,energy,current,electric current C
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 03,environment,weather,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+others,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,heat pump,compressor 2B  status,energy,status,compressor status
+HVAC,AHU,AHU10,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+others,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,power,electric real power
+HVAC,chilled water circuit,south,energy,status,pump status
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting & HVAC,,,energy,power,electric real power
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU10,energy,others,recovery wheel position
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+main,,,energy,power,electric block demand real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,water,hot water flow
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,heat pump,evaporator 2,energy,water temperature,supply temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting & HVAC,,,energy,power,electric real power
+HVAC,AHU,AHU 07,energy,air,supply air temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,current,electric current N
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+others,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+workstation & others,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU10,energy,air,supply fan speed
+HVAC,AHU,AHU 07,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,heat pump,condenser 2,energy,water temperature,supply temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 04,energy,others,2 ways valve cold battery position
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 05,energy,air,return air pressure
+HVAC,AHU,AHU 02,energy,others,recovery wheel position
+room control,,,occupancy & comfort,occupancy,occupancy
+utilities,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 04,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+total resident,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting & HVAC,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+domestic hot water,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 01,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 04,energy,air,return air pressure
+HVAC,AHU,AHU 07,energy,air,discharge air temperature
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+main,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting & HVAC,,,energy,current,electric current C
+others,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,air,return fan status
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,ground heat exchanger,discharge pump,energy,water temperature,water temperature
+heating & cooling,,,energy,energy,electric energy
+others,,,energy,current,electric current B
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+others,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+main,tertiary,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU10,energy,water,hot water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,AHU,AHU 06R,energy,air,supply fan status
+domestic hot water,,rate 2,energy,energy,electric real energy into the load
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+main,,,energy,power,electric block demand real power
+main,,,energy,current,electric current B
+HVAC,hot water circuit,south,energy,water temperature,return temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,energy,electric real energy
+HVAC,Main HVAC,,energy,current,electric current C
+others,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,,,energy,energy,electric energy
+main,,,energy,energy,electric real energy
+workstation & others,,rate 2,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,ground heat exchanger,evaporator,energy,water temperature,water temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 06,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 02,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,current,electric current A
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,current,electric current B
+main,,,energy,power,electric block demand real power
+HVAC,AHU,AHU 03,energy,water,hot water flow
+lighting & HVAC,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+main,,,energy,energy,electric reactive energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+utilities,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,current,electric current A
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+sockets,,,energy,current,electric current A
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 07,energy,water,hot water temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,power,electric block demand apparent power
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,AHU,AHU 09,energy,air,return fan speed
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,air,supply air pressure
+HVAC,AHU,AHU10,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 04,energy,air,return air temperature
+others,,,energy,current,electric current C
+HVAC,Main HVAC,,energy,energy,electric real energy into the load
+utilities,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 01,environment,weather,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+main,,,energy,power,electric apparent power
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+utilities,,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 05,energy,current,electric current A
+HVAC,AHU,AHU 01,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting & HVAC,,,energy,power,electric real power
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 01,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage A-N
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 05,energy,air,return fan status
+main,,,energy,power,electric block demand real power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 04,energy,current,electric current B
+external lighting,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,heat pump,hot water,energy,power,power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 09,environment,weather,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+total resident,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+sockets,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 04,energy,air,supply fan status
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage A-B
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,cold thermal energy
+main,,,energy,power,electric block demand real power
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+workstation & others,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 06R,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature shift
+sockets,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+utilities,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 03,energy,water,chiled water temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,return air pressure
+room control,,,occupancy & comfort,control & command,temperature
+domestic hot water,,water tank 1,energy,water temperature,supply temperature
+HVAC,chilled water circuit,north and center,energy,status,pump status
+utilities,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+main,,,energy,power,electric apparent power
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,south,energy,status,pump status
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+sockets,,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+domestic hot water,,rate 1,energy,energy,electric real energy into the load
+lighting & HVAC,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+weather station,,,environment,weather,atmospheric pressure
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+domestic hot water,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,chilled water circuit,south,energy,water temperature,supply temperature
+utilities,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+workstation & others,common,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+others,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+utilities,,,energy,current,electric current A
+HVAC,AHU,AHU 01,energy,air,supply fan status
+utilities,,,energy,current,electric current A
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 02,energy,water,chiled water flow
+HVAC,Main HVAC,,energy,power,electric block demand real power
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 04,energy,air,discharge air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 04,energy,others,recovery wheel position
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 09,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+sockets,,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,Main HVAC,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 02,energy,air,supply air temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+main,,,energy,current,electric current B
+HVAC,AHU,AHU 02,energy,air,return fan speed
+HVAC,AHU,AHU 09,energy,water,chiled water flow
+room control,,,occupancy & comfort,occupancy,occupancy
+others,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+main,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,power factor,electric power factor
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+main,,,energy,current,electric current C
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,Main HVAC,,energy,current,electric current A
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 01,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,hot water circuit,north and center,energy,water temperature,return temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,current,electric current B
+HVAC,AHU,AHU 04,energy,current,electric current A
+lighting & HVAC,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+main,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+water,plants water,,water,water,water volume
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 05,energy,water,hot water flow
+HVAC,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,energy,electric apparent energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+sockets,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 01,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 09,energy,water,hot water flow
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+others,,,energy,current,electric current A
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,water,chiled water flow
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+domestic hot water,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage B-C
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 05,energy,others,recovery wheel position
+external lighting,,,energy,energy,electric real energy
+weather station,,,environment,weather,temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,AHU,AHU 06,energy,air,return air pressure
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+others,,,energy,power,electric real power
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU10,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,hot water circuit,north and center,energy,water temperature,supply temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,voltage,electric voltage B-N
+workstation & others,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 05,energy,air,supply fan speed
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,AHU,AHU 09,energy,air,supply air pressure
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 02,energy,current,electric current B
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+main,,,energy,energy,electric reactive energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 09,energy,water,hot water temperature
+HVAC,AHU,AHU 09,energy,water,chiled water temperature
+HVAC,AHU,AHU 02,energy,water,chiled water temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+sockets,,,energy,current,electric current A
+lighting,,,energy,energy,electric energy
+HVAC,hot water circuit,kitchen,energy,water temperature,return temperature
+sockets,,,energy,current,electric current C
+lighting,,,energy,energy,electric energy
+main,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 05,energy,water,chiled water temperature
+room control,,,occupancy & comfort,indoor air quality,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 07,energy,others,2 ways valve cold battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU10,energy,others,2 ways valve cold battery position
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+lighting & HVAC,,,energy,current,electric current A
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+HVAC,AHU,AHU 05,energy,air,return air temperature
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+others,,,energy,current,electric current B
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+sockets,,,energy,current,electric current C
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,heating,,energy,current,electric current A
+HVAC,Main HVAC,,energy,current,electric current N
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+main,,,energy,power,electric real power
+sockets,,,energy,power,electric real power
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,power factor,electric power factor
+HVAC,AHU,AHU 09,energy,others,recovery wheel position
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,AHU,AHU 09,energy,air,return fan status
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,chilled water circuit,,energy,energy,cold thermal energy
+main,,,energy,energy,electric reactive energy
+sockets,,,energy,current,electric current B
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+lighting,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+heating & cooling,auxiliary hot & cold,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+others,,,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 06R,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+others,,,energy,current,electric current A
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 09,energy,air,supply fan status
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+sockets,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 05,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 04,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 07,energy,others,2 ways valve hot battery position
+HVAC,Main HVAC,,energy,current,electric current C
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,chilled water circuit,south,energy,water temperature,return temperature
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+sockets,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,occupancy,occupancy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+utilities,,,energy,current,electric current B
+others,,,energy,current,electric current C
+utilities,,,energy,power,electric real power
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+sockets,,,energy,current,electric current C
+HVAC,AHU,AHU10,energy,power,electric real power
+HVAC,AHU,AHU 06,energy,air,discharge air temperature
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,air,supply air temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+water,,,water,water,water volume
+HVAC,AHU,AHU 06R,energy,air,return air temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,chilled water circuit,offices,energy,status,pump status
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+sockets,,,energy,power,electric real power
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,AHU,AHU 03,energy,air,supply air pressure
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,current,electric current avg
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,control & command,temperature shift
+utilities,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+main,,,energy,power,electric real power
+HVAC,AHU,AHU 02,energy,current,electric current C
+HVAC,Main HVAC,,energy,current,electric current B
+water,resident,,water,water,water volume
+HVAC,heating,,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 03,energy,others,2 ways valve cold battery position
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,AHU,AHU 06R,energy,air,supply air pressure
+HVAC,heat pump,evaporator 1,energy,water temperature,return temperature
+HVAC,Main HVAC,,energy,reactive energy,electric reactive energy into the load
+HVAC,AHU,AHU 09,energy,current,electric current A
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,AHU,AHU 06,energy,others,recovery wheel position
+room control,,,occupancy & comfort,control & command,temperature shift
+main,,,energy,energy,electric reactive energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU 06R,energy,energy,hot thermal energy
+photovoltaic panel,solar inverter,A12,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+ventilation,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting & HVAC,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 03,energy,water,chiled water flow
+room control,,,occupancy & comfort,control & command,temperature shift
+total resident,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,ground heat exchanger,evaporator,energy,percentage command,trigger valve position
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+workstation & others,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,energy,cold thermal energy
+HVAC,AHU,AHU 06R,energy,air,return fan speed
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,,,energy,energy,electric energy
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,heating,,energy,power,electric real power
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,voltage,electric voltage L-L avg
+room control,,,occupancy & comfort,control & command,temperature
+sockets,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+lighting,,,energy,current,electric current B
+HVAC,Main HVAC,,energy,voltage,electric voltage L-N avg
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+utilities,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+room control,,,occupancy & comfort,control & command,temperature
+utilities,,,energy,energy,electric real energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+utilities,,,energy,energy,electric real energy
+water,,,water,water,water volume
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,occupancy,occupancy
+sockets,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,cooling
+HVAC,Main HVAC,,energy,apparent power,electric block demand apparent power
+lighting & HVAC,,,energy,current,electric current C
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+lighting,,,energy,energy,electric energy
+HVAC,Main HVAC,,energy,power factor,electric power factor
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,,,energy,energy,electric energy
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+lighting,,,energy,energy,electric energy
+lighting,,,energy,energy,electric energy
+room control,,,occupancy & comfort,control & command,temperature shift
+lighting,,,energy,current,electric current A
+room control,,,occupancy & comfort,control & command,temperature
+domestic hot water,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,Main HVAC,,energy,current,electric current N
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+HVAC,AHU,AHU 04,energy,air,supply air pressure
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,hot water circuit,,energy,energy,hot thermal energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,heating
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+room control,,,occupancy & comfort,indoor air quality,co2
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,heat pump,compressor 1B  status,energy,status,compressor status
+lighting,,,energy,energy,electric energy
+HVAC,AHU,AHU 03,energy,others,recovery wheel position
+HVAC,AHU,AHU 03,energy,air,return air temperature
+main,,,energy,power,electric apparent power
+lighting,,,energy,energy,electric energy
+heating & cooling,,,energy,energy,electric energy
+HVAC,AHU,AHU 02,energy,energy,electric real energy
+room control,,,occupancy & comfort,control & command,temperature shift
+room control,,,occupancy & comfort,indoor air quality,co2
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,,,energy,energy,electric energy
+HVAC,AHU,AHU 09,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,chilled water circuit,kitchen,energy,water temperature,supply temperature
+lighting,,,energy,energy,electric energy
+HVAC,fan coil unit,,occupancy & comfort,control & command,fan
+room control,,,occupancy & comfort,control & command,temperature shift
+HVAC,AHU,AHU 05,energy,current,electric current B
+HVAC,fan coil unit,,occupancy & comfort,control & command,damper
+HVAC,AHU,AHU10,energy,water,hot water flow
+HVAC,Main HVAC,,energy,voltage,electric voltage C-A
+room control,,,occupancy & comfort,occupancy,occupancy
+HVAC,Main HVAC,,energy,current,electric current B
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric real energy
+others,,,energy,current,electric current A
+room control,,,occupancy & comfort,occupancy,occupancy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+room control,,,occupancy & comfort,indoor air quality,co2
+HVAC,ground heat exchanger,condenser,energy,water temperature,water temperature
+sockets,,,energy,current,electric current C
+room control,,,occupancy & comfort,control & command,temperature
+lighting,,,energy,energy,electric real energy
+room control,,,occupancy & comfort,indoor air quality,ambient temperature
+HVAC,Main HVAC,,energy,voltage,electric voltage C-N
+HVAC,AHU,AHU 09,energy,water,chiled water flow
