@@ -1,0 +1,658 @@
+[{
+		"labels": "Energy",
+		"parents": "",
+		"ids": 0,
+		"size": 18
+	}, {
+		"labels": "Power",
+		"parents": "Energy",
+		"ids": 1,
+		"parentids": 0.0,
+		"size": 5
+	}, {
+		"labels": "Water pressure",
+		"parents": "Energy",
+		"ids": 2,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "Water temperature",
+		"parents": "Energy",
+		"ids": 3,
+		"parentids": 0.0,
+		"size": 4
+	}, {
+		"labels": "air",
+		"parents": "Energy",
+		"ids": 4,
+		"parentids": 0.0,
+		"size": 9
+	}, {
+		"labels": "apparent energy",
+		"parents": "Energy",
+		"ids": 5,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "apparent power",
+		"parents": "Energy",
+		"ids": 6,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "current",
+		"parents": "Energy",
+		"ids": 7,
+		"parentids": 0.0,
+		"size": 5
+	}, {
+		"labels": "electrical power",
+		"parents": "Energy",
+		"ids": 8,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "energy",
+		"parents": "Energy",
+		"ids": 9,
+		"parentids": 0.0,
+		"size": 8
+	}, {
+		"labels": "others",
+		"parents": "Energy",
+		"ids": 10,
+		"parentids": 0.0,
+		"size": 3
+	}, {
+		"labels": "percentage command",
+		"parents": "Energy",
+		"ids": 11,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "power factor",
+		"parents": "Energy",
+		"ids": 12,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "reactive energy",
+		"parents": "Energy",
+		"ids": 13,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "reactive power",
+		"parents": "Energy",
+		"ids": 14,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "status",
+		"parents": "Energy",
+		"ids": 15,
+		"parentids": 0.0,
+		"size": 3
+	}, {
+		"labels": "voltage",
+		"parents": "Energy",
+		"ids": 16,
+		"parentids": 0.0,
+		"size": 8
+	}, {
+		"labels": "water",
+		"parents": "Energy",
+		"ids": 17,
+		"parentids": 0.0,
+		"size": 9
+	}, {
+		"labels": "water volume flow",
+		"parents": "Energy",
+		"ids": 18,
+		"parentids": 0.0,
+		"size": 1
+	}, {
+		"labels": "electric apparent power",
+		"parents": "Power",
+		"ids": 19,
+		"parentids": 1.0,
+		"size": 11
+	}, {
+		"labels": "electric block demand apparent power",
+		"parents": "Power",
+		"ids": 20,
+		"parentids": 1.0,
+		"size": 4
+	}, {
+		"labels": "electric block demand real power",
+		"parents": "Power",
+		"ids": 21,
+		"parentids": 1.0,
+		"size": 13
+	}, {
+		"labels": "electric real power",
+		"parents": "Power",
+		"ids": 22,
+		"parentids": 1.0,
+		"size": 89
+	}, {
+		"labels": "power",
+		"parents": "Power",
+		"ids": 23,
+		"parentids": 1.0,
+		"size": 1
+	}, {
+		"labels": "water pressure",
+		"parents": "Water pressure",
+		"ids": 24,
+		"parentids": 2.0,
+		"size": 1
+	}, {
+		"labels": "return temperature",
+		"parents": "Water temperature",
+		"ids": 25,
+		"parentids": 3.0,
+		"size": 16
+	}, {
+		"labels": "supply temperature",
+		"parents": "Water temperature",
+		"ids": 26,
+		"parentids": 3.0,
+		"size": 15
+	}, {
+		"labels": "supply temperature setpoint",
+		"parents": "Water temperature",
+		"ids": 27,
+		"parentids": 3.0,
+		"size": 1
+	}, {
+		"labels": "water temperature",
+		"parents": "Water temperature",
+		"ids": 28,
+		"parentids": 3.0,
+		"size": 6
+	}, {
+		"labels": "discharge air temperature",
+		"parents": "air",
+		"ids": 29,
+		"parentids": 4.0,
+		"size": 10
+	}, {
+		"labels": "return air pressure",
+		"parents": "air",
+		"ids": 30,
+		"parentids": 4.0,
+		"size": 21
+	}, {
+		"labels": "return air temperature",
+		"parents": "air",
+		"ids": 31,
+		"parentids": 4.0,
+		"size": 10
+	}, {
+		"labels": "return fan speed",
+		"parents": "air",
+		"ids": 32,
+		"parentids": 4.0,
+		"size": 11
+	}, {
+		"labels": "return fan status",
+		"parents": "air",
+		"ids": 33,
+		"parentids": 4.0,
+		"size": 11
+	}, {
+		"labels": "supply air pressure",
+		"parents": "air",
+		"ids": 34,
+		"parentids": 4.0,
+		"size": 21
+	}, {
+		"labels": "supply air temperature",
+		"parents": "air",
+		"ids": 35,
+		"parentids": 4.0,
+		"size": 10
+	}, {
+		"labels": "supply fan speed",
+		"parents": "air",
+		"ids": 36,
+		"parentids": 4.0,
+		"size": 11
+	}, {
+		"labels": "supply fan status",
+		"parents": "air",
+		"ids": 37,
+		"parentids": 4.0,
+		"size": 11
+	}, {
+		"labels": "electric apparent energy",
+		"parents": "apparent energy",
+		"ids": 38,
+		"parentids": 5.0,
+		"size": 2
+	}, {
+		"labels": "electric block demand apparent power",
+		"parents": "apparent power",
+		"ids": 39,
+		"parentids": 6.0,
+		"size": 2
+	}, {
+		"labels": "electric current A",
+		"parents": "current",
+		"ids": 40,
+		"parentids": 7.0,
+		"size": 95
+	}, {
+		"labels": "electric current B",
+		"parents": "current",
+		"ids": 41,
+		"parentids": 7.0,
+		"size": 95
+	}, {
+		"labels": "electric current C",
+		"parents": "current",
+		"ids": 42,
+		"parentids": 7.0,
+		"size": 95
+	}, {
+		"labels": "electric current N",
+		"parents": "current",
+		"ids": 43,
+		"parentids": 7.0,
+		"size": 6
+	}, {
+		"labels": "electric current avg",
+		"parents": "current",
+		"ids": 44,
+		"parentids": 7.0,
+		"size": 6
+	}, {
+		"labels": "power",
+		"parents": "electrical power",
+		"ids": 45,
+		"parentids": 8.0,
+		"size": 1
+	}, {
+		"labels": "cold thermal energy",
+		"parents": "energy",
+		"ids": 46,
+		"parentids": 9.0,
+		"size": 42
+	}, {
+		"labels": "electric apparent energy",
+		"parents": "energy",
+		"ids": 47,
+		"parentids": 9.0,
+		"size": 4
+	}, {
+		"labels": "electric block demand real power",
+		"parents": "energy",
+		"ids": 48,
+		"parentids": 9.0,
+		"size": 4
+	}, {
+		"labels": "electric energy",
+		"parents": "energy",
+		"ids": 49,
+		"parentids": 9.0,
+		"size": 459
+	}, {
+		"labels": "electric reactive energy",
+		"parents": "energy",
+		"ids": 50,
+		"parentids": 9.0,
+		"size": 11
+	}, {
+		"labels": "electric real energy",
+		"parents": "energy",
+		"ids": 51,
+		"parentids": 9.0,
+		"size": 89
+	}, {
+		"labels": "electric real energy into the load",
+		"parents": "energy",
+		"ids": 52,
+		"parentids": 9.0,
+		"size": 30
+	}, {
+		"labels": "hot thermal energy",
+		"parents": "energy",
+		"ids": 53,
+		"parentids": 9.0,
+		"size": 36
+	}, {
+		"labels": "2 ways valve cold battery position",
+		"parents": "others",
+		"ids": 54,
+		"parentids": 10.0,
+		"size": 10
+	}, {
+		"labels": "2 ways valve hot battery position",
+		"parents": "others",
+		"ids": 55,
+		"parentids": 10.0,
+		"size": 10
+	}, {
+		"labels": "recovery wheel position",
+		"parents": "others",
+		"ids": 56,
+		"parentids": 10.0,
+		"size": 10
+	}, {
+		"labels": "trigger valve position",
+		"parents": "percentage command",
+		"ids": 57,
+		"parentids": 11.0,
+		"size": 2
+	}, {
+		"labels": "electric power factor",
+		"parents": "power factor",
+		"ids": 58,
+		"parentids": 12.0,
+		"size": 6
+	}, {
+		"labels": "electric reactive energy into the load",
+		"parents": "reactive energy",
+		"ids": 59,
+		"parentids": 13.0,
+		"size": 6
+	}, {
+		"labels": "electric block demand reactive power",
+		"parents": "reactive power",
+		"ids": 60,
+		"parentids": 14.0,
+		"size": 6
+	}, {
+		"labels": "compressor status",
+		"parents": "status",
+		"ids": 61,
+		"parentids": 15.0,
+		"size": 8
+	}, {
+		"labels": "heating cooling mode",
+		"parents": "status",
+		"ids": 62,
+		"parentids": 15.0,
+		"size": 1
+	}, {
+		"labels": "pump status",
+		"parents": "status",
+		"ids": 63,
+		"parentids": 15.0,
+		"size": 16
+	}, {
+		"labels": "electric voltage A-B",
+		"parents": "voltage",
+		"ids": 64,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage A-N",
+		"parents": "voltage",
+		"ids": 65,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage B-C",
+		"parents": "voltage",
+		"ids": 66,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage B-N",
+		"parents": "voltage",
+		"ids": 67,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage C-A",
+		"parents": "voltage",
+		"ids": 68,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage C-N",
+		"parents": "voltage",
+		"ids": 69,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage L-L avg",
+		"parents": "voltage",
+		"ids": 70,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "electric voltage L-N avg",
+		"parents": "voltage",
+		"ids": 71,
+		"parentids": 16.0,
+		"size": 6
+	}, {
+		"labels": "chiled water flow",
+		"parents": "water",
+		"ids": 72,
+		"parentids": 17.0,
+		"size": 11
+	}, {
+		"labels": "chiled water temperature",
+		"parents": "water",
+		"ids": 73,
+		"parentids": 17.0,
+		"size": 11
+	}, {
+		"labels": "dimmer rate",
+		"parents": "water",
+		"ids": 74,
+		"parentids": 17.0,
+		"size": 2
+	}, {
+		"labels": "ground water level",
+		"parents": "water",
+		"ids": 75,
+		"parentids": 17.0,
+		"size": 1
+	}, {
+		"labels": "hot water flow",
+		"parents": "water",
+		"ids": 76,
+		"parentids": 17.0,
+		"size": 11
+	}, {
+		"labels": "hot water temperature",
+		"parents": "water",
+		"ids": 77,
+		"parentids": 17.0,
+		"size": 11
+	}, {
+		"labels": "pumping flow",
+		"parents": "water",
+		"ids": 78,
+		"parentids": 17.0,
+		"size": 1
+	}, {
+		"labels": "trigger valve position",
+		"parents": "water",
+		"ids": 79,
+		"parentids": 17.0,
+		"size": 1
+	}, {
+		"labels": "water conductivity",
+		"parents": "water",
+		"ids": 80,
+		"parentids": 17.0,
+		"size": 1
+	}, {
+		"labels": "flow",
+		"parents": "water volume flow",
+		"ids": 81,
+		"parentids": 18.0,
+		"size": 2
+	}, {
+		"labels": "Water",
+		"parents": "",
+		"ids": 82,
+		"size": 1
+	}, {
+		"labels": "Water2",
+		"parents": "Water",
+		"ids": 83,
+		"parentids": 82.0,
+		"size": 10
+	}, {
+		"labels": "environment",
+		"parents": "",
+		"ids": 84,
+		"size": 1
+	}, {
+		"labels": "weather",
+		"parents": "environment",
+		"ids": 85,
+		"parentids": 84.0,
+		"size": 9
+	}, {
+		"labels": "atmospheric pressure",
+		"parents": "weather",
+		"ids": 86,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "dew point",
+		"parents": "weather",
+		"ids": 87,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "humidity rate",
+		"parents": "weather",
+		"ids": 88,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "solar radiation power",
+		"parents": "weather",
+		"ids": 89,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "sonic temperature",
+		"parents": "weather",
+		"ids": 90,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "temperature",
+		"parents": "weather",
+		"ids": 91,
+		"parentids": 85.0,
+		"size": 12
+	}, {
+		"labels": "water weight",
+		"parents": "weather",
+		"ids": 92,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "wind direction",
+		"parents": "weather",
+		"ids": 93,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "wind speed",
+		"parents": "weather",
+		"ids": 94,
+		"parentids": 85.0,
+		"size": 1
+	}, {
+		"labels": "occupancy & comfort",
+		"parents": "",
+		"ids": 95,
+		"size": 3
+	}, {
+		"labels": "Occupancy",
+		"parents": "occupancy & comfort",
+		"ids": 96,
+		"parentids": 95.0,
+		"size": 1
+	}, {
+		"labels": "control & command",
+		"parents": "occupancy & comfort",
+		"ids": 97,
+		"parentids": 95.0,
+		"size": 6
+	}, {
+		"labels": "indoor air quality",
+		"parents": "occupancy & comfort",
+		"ids": 98,
+		"parentids": 95.0,
+		"size": 4
+	}, {
+		"labels": "occupancy",
+		"parents": "Occupancy",
+		"ids": 99,
+		"parentids": 96.0,
+		"size": 187
+	}, {
+		"labels": "cooling",
+		"parents": "control & command",
+		"ids": 100,
+		"parentids": 97.0,
+		"size": 186
+	}, {
+		"labels": "damper",
+		"parents": "control & command",
+		"ids": 101,
+		"parentids": 97.0,
+		"size": 186
+	}, {
+		"labels": "fan",
+		"parents": "control & command",
+		"ids": 102,
+		"parentids": 97.0,
+		"size": 186
+	}, {
+		"labels": "heating",
+		"parents": "control & command",
+		"ids": 103,
+		"parentids": 97.0,
+		"size": 186
+	}, {
+		"labels": "temperature",
+		"parents": "control & command",
+		"ids": 104,
+		"parentids": 97.0,
+		"size": 183
+	}, {
+		"labels": "temperature shift",
+		"parents": "control & command",
+		"ids": 105,
+		"parentids": 97.0,
+		"size": 183
+	}, {
+		"labels": "ambient temperature",
+		"parents": "indoor air quality",
+		"ids": 106,
+		"parentids": 98.0,
+		"size": 187
+	}, {
+		"labels": "co2",
+		"parents": "indoor air quality",
+		"ids": 107,
+		"parentids": 98.0,
+		"size": 187
+	}, {
+		"labels": "temperature",
+		"parents": "indoor air quality",
+		"ids": 108,
+		"parentids": 98.0,
+		"size": 4
+	}, {
+		"labels": "temperature shift",
+		"parents": "indoor air quality",
+		"ids": 109,
+		"parentids": 98.0,
+		"size": 4
+	}
+]
