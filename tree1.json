@@ -2,7 +2,6 @@
 		"labels": "Energy",
 		"parents": "",
 		"ids": 0,
-		"parentids": null,
 		"name": 18
 	}, {
 		"labels": "Power",
@@ -494,7 +493,6 @@
 		"labels": "Water",
 		"parents": "",
 		"ids": 82,
-		"parentids": null,
 		"name": 1
 	}, {
 		"labels": "Water2",
@@ -506,7 +504,6 @@
 		"labels": "environment",
 		"parents": "",
 		"ids": 84,
-		"parentids": null,
 		"name": 1
 	}, {
 		"labels": "weather",
@@ -572,7 +569,6 @@
 		"labels": "occupancy & comfort",
 		"parents": "",
 		"ids": 95,
-		"parentids": null,
 		"name": 3
 	}, {
 		"labels": "Occupancy",
