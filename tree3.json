@@ -1459,23 +1459,5 @@
     "name": "OperatorSequence",
     "parent": 211,
     "size": 4190
-  },
-  {
-    "id": 250,
-    "name": "OperatorSwitch",
-    "parent": 211,
-    "size": 2581
-  },
-  {
-    "id": 251,
-    "name": "SortOperator",
-    "parent": 211,
-    "size": 2023
-  },
-  {
-    "id": 252,
-    "name": "Visualization",
-    "parent": 169,
-    "size": 16540
   }
 ]
